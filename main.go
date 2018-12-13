@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	SQLHelper.InitDBTable()
+	SQLHelper.CreateAccount("qq","qq")
 }
