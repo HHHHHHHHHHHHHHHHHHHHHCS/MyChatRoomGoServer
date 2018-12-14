@@ -1,4 +1,4 @@
-package SQLHelper
+package Account
 
 import (
 	"math/rand"
